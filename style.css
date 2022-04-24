@@ -1,0 +1,37 @@
+.flex {
+  height: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(250, 233, 250);
+}
+
+img {
+  width: 350px;
+  height: 250px;
+  margin-top: 0.5em;
+  background-color: rgb(251, 242, 227);
+}
+
+h2 {
+  font-size: 80px;
+  border-bottom: 10px solid #ff838b;
+  padding-top: 5px;
+  margin-bottom: 10px;
+}
+
+button {
+  border: solid 1.5px rgb(115, 113, 113);
+  color: #f4f1f4;
+  background: #d97ba4;
+  width: 300px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 20px;
+  box-shadow: 1px 1px 1px gray;
+}
+
+.soccer {
+  margin-top: 0.8em;
+}
